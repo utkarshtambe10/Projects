@@ -4,4 +4,4 @@ The development of this website was started after I completed learning the techs
 
 This website is solely developed by me (Utkarsh Tambe) only by using HTML, CSS and JavaScript with the help of Ajax-calls. Below, is the certificate achieved by me after successfully completing the course.
 
-Link to the website: <a href="https://utkarshtambe10.github.io/Projects/Restaurant%20Website/index.html">Restaurant Website</a>
+Link to the website: <a target="_blank" href="https://utkarshtambe10.github.io/Projects/Restaurant%20Website/index.html">Restaurant Website</a>
